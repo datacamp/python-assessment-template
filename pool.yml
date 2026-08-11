@@ -1,4 +1,4 @@
 title: Template Python Challenge
 programming_language: python
-from: 'python-base-prod:v2.0.0'
+from: 'python-base-prod:v3.1.0'
 type: "skill-assessment"
